@@ -1,10 +1,10 @@
 <h2>Olá!</h2>
 <p>Me chamo Vítor e sou estudante de Análise e Desenvolvimento de Sistemas.</p>
 
-<div align="center">
+<!--<div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vitormcferreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormcferreira&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div>-->
 
 <h3>Linguagens e Frameworks:</h3>
 <div>

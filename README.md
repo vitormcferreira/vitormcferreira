@@ -43,7 +43,10 @@
   <li>
     <a href="https://github.com/vitormcferreira/desafio-drf-frexco">Desafio API Frexco</a>
   </li>
-    <li>
+  <li>
     <a href="https://github.com/vitormcferreira/landing-page">Landing Page</a>
+  </li>
+  <li>
+    <a href="https://github.com/vitormcferreira/app-chat-ddd">Chat App DDD</a>
   </li>
 </ul>

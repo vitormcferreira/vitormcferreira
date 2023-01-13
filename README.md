@@ -32,13 +32,13 @@
 <h3>Projetos:</h3>
 <ul>
    <li>
-    <a href="https://github.com/vitormcferreira/todolist-django">TODO List usando Django</a>
+    <a href="https://github.com/vitormcferreira/blog-django">Blog feito com Django</a>
+  </li>
+   <li>
+    <a href="https://github.com/vitormcferreira/todolist-django">TODO List feita com Django</a>
   </li>
   <li>
     <a href="https://github.com/vitormcferreira/5PJS-ativ-conta-de-luz-frontend">Conta de Luz</a>
-  </li>
-  <li>
-    <a href="https://github.com/vitormcferreira/5PJS-ativ-games-frontend">Jogo da Memória</a>
   </li>
   <li>
     <a href="https://github.com/vitormcferreira/desafio-drf-frexco">Desafio API Frexco</a>
